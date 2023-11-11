@@ -36,7 +36,7 @@
 
   1. ListagemSeriesPorData.java - Classe em que é buscado na série as temporadas após o ano inserida, usando LocalDate e DateTimeFormatter para formatar o tempo para o padrão brasileiro.
 
-## ScreenMatchApplication.java
+## SeriesMatchApplication.java
 
   Classe do SpringBoot onde há um ```SpringApplication.run``` onde irá executar algo. Usando a interface CommandLineRunner, será permitido realizar algumas chamadas no método principal. Quando uma interface é implementada, temos um contrato. Portanto, preciso implementar os métodos ainda não implementados, que nesse caso, é o run.
 
