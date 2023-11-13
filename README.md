@@ -1,4 +1,5 @@
 # SeriesFinder
+  Programa que o usuário consegue inserir o nome da série em inglês e consegue algumas estatísticas como a quantidade de temporadas, séries, e avaliações usando a API da IMDB.
 
 ## MODEL
 
